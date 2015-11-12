@@ -1,0 +1,32 @@
+                  MOUVEMENT:
+Gauche                           -> h
+Droite                           -> l
+Haut                             -> k
+Bas                              -> j
+Se déplacer en haut d'un fichier -> G
+Se déplacer en bas d'un fichier  -> GG
+Se déplacer à la ligne #         -> #G
+Retour au début du mot           -> w
+Allez à la fin du mot            -> e
+Retour en début de ligne         -> 0
+Aller en fin de ligne            -> $
+                  EDITION DE TEXTE:
+Entrer en mode édition de texte  -> :i
+Remplacer un caractére           -> r
+Remplacer une ligne              -> cc
+Supprimer un caractère           -> s
+Effacer le caractère courant     -> x
+Retour                           -> u
+Copier une ligne                 -> aa
+Coupez/Supprimer une ligne       -> dd
+Coller le texte copié/coupé      -> p
+Remplacer "mot1" par "mot2"      -> %s/mot1/mot2/g
+                  DIVERSES COMMANDES:
+Enregistrer                      -> :w 
+Quitter                          -> :q
+Quitter sans enregistrer         -> :q!
+Rechercher un mot                -> / "mot"
+Créer un fichier                 -> :e nomdufichier
+Faire un split vertical          -> Ctrl + w + v
+Faire un split horizontal        -> Ctrl + w + h
+Se déplacer entre les splits     -> Ctrl + w + flèche de direction
